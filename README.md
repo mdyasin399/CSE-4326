@@ -4,8 +4,8 @@ Autonomous Office Delivery System: A Path-Following Robot for Documents and Parc
 This project involves the design and implementation of an autonomous, path-following robot built to deliver documents and parcels within an office environment. The robot is powered by a Raspberry Pi and equipped with various sensors, a camera, and a Python-based line-following algorithm. It efficiently navigates predefined paths, avoids obstacles, and provides a user-friendly interface for employees to request deliveries.
 
 Features:
-Autonomous Path Navigation: Uses computer vision and a line-following algorithm to navigate through the office.
-Obstacle Detection and Avoidance: Equipped with ultrasonic sensors for real-time obstacle detection and rerouting.
+1. Autonomous Path Navigation: Uses computer vision and a line-following algorithm to navigate through the office.
+2. Obstacle Detection and Avoidance: Equipped with ultrasonic sensors for real-time obstacle detection and rerouting.
 RFID Access Control: Utilizes RFID for secure access to specific areas.
 Automated Parcel Handling: Servo-controlled compartment for loading and unloading documents or parcels.
 User-Friendly Interface: Simple interface for employees to select delivery or pick-up points.
