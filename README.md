@@ -1,5 +1,7 @@
 # CSE-4326
-#Autonomous Office Delivery System: A Path-Following Robot for Documents and Parcels 🌟
+
+**Autonomous Office Delivery System: A Path-Following Robot for Documents and Parcels 🌟**
+
 Facilitating efficient and autonomous document and parcel delivery within office spaces
 
 #Welcome to the Smart Robot for Office Document and Parcel Delivery project! This platform automates the delivery process, allowing office employees to send and receive documents or parcels seamlessly. Built with a Raspberry Pi and powered by a path-following algorithm, this robot offers a streamlined, scalable solution for office logistics.
