@@ -6,6 +6,16 @@ Facilitating efficient and autonomous document and parcel delivery within office
 ## Welcome to the Smart Robot for Office Document and Parcel Delivery project! This platform automates the delivery process, allowing office employees to send and receive documents or parcels seamlessly. Built with a Raspberry Pi and powered by a path-following algorithm, this robot offers a streamlined, scalable solution for office logistics.
 
 ## 🚀 Key Features:
+
+
+
+
+
+
+
+
+
+
 Autonomous Navigation: The robot follows predefined paths using a camera and a Python-based line-following algorithm.
 Obstacle Detection: Equipped with ultrasonic sensors, the robot avoids obstacles in real time, ensuring safe and efficient deliveries.
 RFID Access: Secure delivery to specific office locations using RFID technology.
