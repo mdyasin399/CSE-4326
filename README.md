@@ -14,11 +14,11 @@ Welcome to the Smart Robot for Office Document and Parcel Delivery project! This
 * OLED Display: Displays real-time information about the robot’s operations and progress.
 
 # 🤝 For Users:
-*Track Deliveries: Users can easily monitor and control the robot’s activities, ensuring their documents or parcels are delivered to the correct location.
-*Interactive Interface: Employees can select predefined drop-off and pick-up points using a user-friendly interface.
-🏢 For Offices:
-Efficient Document Handling: The robot saves time by automating document and parcel deliveries, enhancing overall workplace productivity.
-Scalability: The system is easily adaptable for various office layouts and can be scaled to accommodate larger office spaces.
-📜 Acknowledgment:
+* Track Deliveries: Users can easily monitor and control the robot’s activities, ensuring their documents or parcels are delivered to the correct location.
+* Interactive Interface: Employees can select predefined drop-off and pick-up points using a user-friendly interface.
+# 🏢 For Offices:
+* Efficient Document Handling: The robot saves time by automating document and parcel deliveries, enhancing overall workplace productivity.
+* Scalability: The system is easily adaptable for various office layouts and can be scaled to accommodate larger office spaces.
+# 📜 Acknowledgment:
 We extend our sincere thanks to the CAIR Lab for providing laboratory support and to the Team Leader of the UIU Mars Rover Team for supplying the necessary components for this project.
 
