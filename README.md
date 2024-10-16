@@ -6,7 +6,7 @@ Welcome to the Smart Robot for Office Document and Parcel Delivery project! This
 
 # 🚀 Key Features:
 * Autonomous Navigation: The robot follows predefined paths using a camera and a Python-based line-following algorithm.
-* Obstacle Detection: Equipped with ultrasonic sensors, the robot avoids obstacles in real time, ensuring safe and efficient deliveries.
+* Obstacle Detection: Equipped with ultrasonic sensors, the robot avoids obstacles in real-time, ensuring safe and efficient deliveries.
 * RFID Access: Secure delivery to specific office locations using RFID technology.
 * Parcel Handling: Servo-operated compartments allow for easy loading and unloading of documents and parcels.
 * Visual and Audio Feedback: Neopixel LEDs and a buzzer provide status updates and feedback to users.
